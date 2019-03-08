@@ -1,1 +1,2 @@
-
+#!/bin/sh
+echo '{"version": { "ref": "61cebf" }}'
