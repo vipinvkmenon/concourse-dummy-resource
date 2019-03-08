@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-echo '{"version": {"notify": "true"}}'
+echo '[{"ref":"61cbef"},{"ref":"d74e01"}]'
