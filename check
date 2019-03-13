@@ -1,2 +1,2 @@
-#!bin/sh
+#!/bin/sh
 echo '[{"ref":"61cbef"},{"ref":"d74e01"}]'
