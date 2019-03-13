@@ -1,2 +1,2 @@
 #!/bin/sh
-echo '{"version": { "ref": "61cebf" }}'
+echo '{"version": { "ref": "61cebf" }}' > empty
