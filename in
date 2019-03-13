@@ -1,2 +1,3 @@
 #!/bin/sh
-echo '{"version": { "ref": "61cebf" }}' > empty
+touch ./empty
+echo '{"version": { "ref": "61cebf" }}'
