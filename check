@@ -1,2 +1,2 @@
 #!/bin/sh
-echo $(date +%s)
+echo "[{"ref":"$(date +%s)"}]"
