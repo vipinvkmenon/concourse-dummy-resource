@@ -1,6 +1,6 @@
 FROM busybox
 
-LABEL maintainer "kotaro.yoshimatsu@gmail.com"
+LABEL maintainer "vipin.vijay.kumar9@gmail.com"
 
 COPY in /opt/resource/in
 COPY out /opt/resource/out
